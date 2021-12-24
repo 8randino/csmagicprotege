@@ -1,0 +1,2 @@
+- 👋 Ahoy, I’m @codemagicprotege (cmp) currently on a journey to practice coding. 
+- 📚 /🖥️ I'm a self-taught programmer interested in backend software development (work) and computer graphics (hobby).
