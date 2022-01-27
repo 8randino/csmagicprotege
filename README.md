@@ -1,3 +1,3 @@
-![image](https://user-images.githubusercontent.com/65047455/149829769-0549926e-720b-4570-9cf0-10359990207a.png)
+![image](https://fontmeme.com/temporary/af43a45a978a5880a1fb7e809fca764f.png)
 - 👋 @codemagicprotege
 - 🖥️ I'm a self-taught programmer interested in backend software development and data infrstructure.
