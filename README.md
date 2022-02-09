@@ -1,2 +1,2 @@
-- I'm a self-taught programmer that specializes in backend development and data infrstructure. 
-- I have a bs in mathematics with a concentration in applied math. 
+- I'm a self-taught programmer and i'm looking to build my skill sets in backend development and data infrstructure. 
+- I have a bs in mathematics.
