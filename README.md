@@ -1,2 +1,3 @@
 - I'm a self-taught programmer and i'm looking to build my skill sets in backend development and data infrstructure. 
 - I have a bs in mathematics.
+- opensource projects coming soon
